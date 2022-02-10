@@ -6,6 +6,6 @@ setup(name="Yolov5Model",
       license='MIT',
       author="Diego De Quintal",
       authoer_email="diego.dequintal@newtoms.com",
-      url='https://github.com/diegodequintal/Yolov5_DeepSort_Pytorch',
-      packages=['yolov5', 'deep_sort', 'deep_sort.*']
+      url='https://github.com/diegodequintal/Yolov5',
+      packages=['yolov5', 'deep_sort']
 )
