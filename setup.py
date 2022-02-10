@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
-setup(name="yolov5",
+setup(name="YOLOV",
       version="1.0.0",
-      description="yolov5",
+      description="YOLOV",
       license='MIT',
       author="Diego De Quintal",
       authoer_email="diego.dequintal@newtoms.com",
