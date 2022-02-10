@@ -9,5 +9,3 @@ setup(name="Yolov5Model",
       url='https://github.com/diegodequintal/Yolov5_DeepSort_Pytorch',
       packages=find_packages(include=['yolov5', 'yolov5.*', 'deep_sort', 'deep_sort.*'])
 )
-
-from setuptools imp
