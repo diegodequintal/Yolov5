@@ -2,9 +2,9 @@ import numpy as np
 import torch
 import sys
 
-from sort.nn_matching import NearestNeighborDistanceMetric
-from sort.detection import Detection
-from sort.tracker import Tracker
+from deep_sort.sort.nn_matching import NearestNeighborDistanceMetric
+from deep_sort.sort.detection import Detection
+from deep_sort.sort.tracker import Tracker
 
 sys.path.append('deep_sort/deep/reid')
 from torchreid.utils import FeatureExtractor
